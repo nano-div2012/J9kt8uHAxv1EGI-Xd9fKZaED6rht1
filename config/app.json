@@ -1,6 +1,6 @@
 {
-  "appName": "Web App",
-  "packageName": "com.example.webapp",
+  "appName": "Cek domain",
+  "packageName": "com.web2apk.cekdomaind2tj",
   "orientation": "auto",
-  "permissions": ["internet", "network_state"]
+  "permissions": []
 }
